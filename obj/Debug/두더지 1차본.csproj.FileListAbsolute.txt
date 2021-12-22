@@ -1,0 +1,26 @@
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\bin\Debug\두더지 1차본.exe.config
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\bin\Debug\두더지 1차본.exe
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\bin\Debug\두더지 1차본.pdb
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지 1차본.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지 1차본.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지_1차본.Form1.resources
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지_1차본.Properties.Resources.resources
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지 1차본.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지 1차본.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지 1차본.exe
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Debug\두더지 1차본.pdb
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\bin\Debug\두더지 1차본.exe.config
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\bin\Debug\두더지 1차본.exe
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\bin\Debug\두더지 1차본.pdb
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지 1차본.csproj.SuggestedBindingRedirects.cache
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지_1차본.Form1.resources
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지_1차본.Properties.Resources.resources
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지 1차본.csproj.GenerateResource.cache
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지 1차본.csproj.CoreCompileInputs.cache
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지 1차본.exe
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지 1차본.pdb
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\bin\Debug\RestSharp.dll
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\bin\Debug\RestSharp.xml
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지 1차본.csproj.AssemblyReference.cache
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지 1차본.csproj.CopyComplete
+C:\Users\subin\OneDrive - 인천광역시교육청\문서\codingparty\두더지 1차본\obj\Debug\두더지_1차본.Form2.resources

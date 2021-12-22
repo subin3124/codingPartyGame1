@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Release\두더지 1차본.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Release\두더지_1차본.Form1.resources
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Release\두더지_1차본.Properties.Resources.resources
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Release\두더지 1차본.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Release\두더지 1차본.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\bin\Release\두더지 1차본.exe.config
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\bin\Release\두더지 1차본.exe
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\bin\Release\두더지 1차본.pdb
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Release\두더지 1차본.exe
+C:\Users\admin\Desktop\c#공부\두더지 1차본\두더지 1차본\obj\Release\두더지 1차본.pdb
